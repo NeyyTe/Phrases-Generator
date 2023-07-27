@@ -1,6 +1,6 @@
 # Générateur de phrases
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Ce projet a été construit avec ReactJS et plus précisément avec [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 

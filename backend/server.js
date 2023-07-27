@@ -6,11 +6,6 @@ const port = 5000;
 const data = require("./excuses.json")
 
 app.use(cors({origin:"*",}))
-// app.use((req, res) => {
-//   res.setHeader('Access-Control-Allow-Origin', '*');
-//   res.setHeader('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE');
-//   res.setHeader('Access-Control-Allow-Headers', 'Content-Type, Authorization');
-// });
 
 app.get('/excuses', (req, res) => {
   res.json(data);
