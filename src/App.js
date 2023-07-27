@@ -10,9 +10,9 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<HomePage />} />
-          <Route path="*" element={<NotFoundPage />} />
           <Route path="/lost" element={<LostPage />} />
-          <Route path="/:httpcode" element={<HttpCodePage />} />
+          <Route path="/:http_code" element={<HttpCodePage />} />
+          <Route path="*" element={<NotFoundPage />} />
         </Routes>
       </BrowserRouter>
     </>

@@ -32,7 +32,7 @@ export default function HomePage() {
         <h1 className="title">Les excuses de Dev</h1>
         <p className="excuse">{existingExcuse}</p>
         <button className="title-button" onClick={genExcuse}>
-          Générer une nouvelle excuse
+       Appuyez ici pour générer une excuse
         </button>
        
       </div>
