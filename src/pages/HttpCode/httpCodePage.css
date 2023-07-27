@@ -1,0 +1,7 @@
+.http_code{
+    height: 100dvh;
+    background-color:var(--blue);
+    color: black;
+
+    padding: 2%;
+}
