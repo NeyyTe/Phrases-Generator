@@ -1,7 +1,7 @@
 # **Projet Les Excuses de Dev**
 
 Ce projet est une application web construit avec ReactJS et plus précisément avec [Create React App](https://github.com/facebook/create-react-app) qui génère aléatoirement des excuses de développeurs.
-***
+
 ## **Instructions pour lancer le projet**
 
 Suivez ces étapes pour lancer le projet sur votre pc 
