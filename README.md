@@ -9,12 +9,13 @@ Suivez ces étapes pour lancer le projet sur votre pc
 ### **Prérequis**
 
 Node.js (version 12 ou supérieure)  
-npm (généralement installé avec Node.js)
+npm (généralement installé avec Node.js)  
 ***
 ### **Étapes d'installation**
 
-1. #### `Clonez le dépôt GitHub sur votre machine` :  ```git clone  https://github.com/votre-nom-utilisateur/les-excuses-de-dev.git```
-
+1. #### `Clonez le dépôt GitHub sur votre machine` :  
+ ```git clone  https://github.com/votre-nom-utilisateur/les-excuses-de-dev.git```  
+ 
 2. #### `Accédez au répertoire du projet` :
 
 Ouvrir 2 terminaux dans vscode :
