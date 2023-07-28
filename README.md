@@ -22,7 +22,7 @@ Ouvrir 2 terminaux dans vscode :
 ```cd my-app``` (pour le front);  
 ```cd my-app/backend``` (pour le back)
 
-#### * 3`Installez les dépendances du projet` :
+#### 3 : `Installez les dépendances du projet` :
 
 ```npm install``` ( pour les node_modules )
 
