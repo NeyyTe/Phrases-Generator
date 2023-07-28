@@ -1,17 +1,17 @@
-# Projet Les Excuses de Dev
+# **Projet Les Excuses de Dev**
 
 Ce projet est une application web construit avec ReactJS et plus précisément avec [Create React App](https://github.com/facebook/create-react-app) qui génère aléatoirement des excuses de développeurs.
 
-## Instructions pour lancer le projet
+## **Instructions pour lancer le projet**
 
 Suivez ces étapes pour lancer le projet sur votre pc 
 
-### *Prérequis*
+### **Prérequis**
 
 Node.js (version 12 ou supérieure)  
 npm (généralement installé avec Node.js)
 
-### *Étapes d'installation*
+### **Étapes d'installation**
 
 #### * 1`Clonez le dépôt GitHub sur votre machine` : ```git clone https://github.com/votre-nom-utilisateur/les-excuses-de-dev.git```
 
@@ -26,7 +26,7 @@ Ouvrir 2 terminaux dans vscode :
 
 ```npm install``` ( pour les node_modules )
 
-### *Lancer l'application*
+### **Lancer l'application**
 
 Lancez l'application front-end une fois positionné: `npm start`  
 Ouvrez votre navigateur et accédez à l'URL suivante : `http://localhost:3000`
