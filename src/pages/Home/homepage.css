@@ -64,26 +64,29 @@ button:hover:before {
 .title {
   color: #ffffff;
   opacity: 0; 
-  animation: fadeInTitle 2s forwards, TitleUp 1s 2s ease forwards;
+  animation: fadeIn 2s forwards, TitleUp 1s 2s ease forwards;
+  font-size: 2rem;
 }
 
-.title-button {
-  margin-top: 20px;
+.p_and_button {
+  margin: 1.2rem;
   opacity: 0; 
   animation: fadeInBtn 3s forwards; 
   animation-delay: 2s;
 }
 
 
-@keyframes fadeInTitle {
+@keyframes fadeIn {
   to {
     opacity: 1; 
+    font-size: 3rem;
   }
 }
 
 @keyframes fadeInBtn{
   to {
     opacity: 1; 
+    
   }
 }
 

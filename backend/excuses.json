@@ -20,8 +20,13 @@
         "message": " Goto Fail"
     },
     {
-        "http_code": 706,
+        "http_code": 705,
         "tag ": "Inexcusable",
+        "message ": " I wrote the code and missed the necessary validation by an oversight (see 795)"
+    },
+    {
+        "http_code": 706,
+        "tag": "Inexcusable",
         "message": " Delete Your Account"
     },
     {
@@ -230,6 +235,11 @@
         "message": " Drunk"
     },
     {
+        "http_code": 768,
+        "tag ": "Substance",
+        "message": " Accidentally Took Sleeping Pills Instead Of Migraine Pills During Crunch Week"
+    },
+    {
         "http_code": 771,
         "tag ": "Predictable Problems",
         "message": " Cached for too long"
@@ -325,6 +335,16 @@
         "message": " Not my department"
     },
     {
+        "http_code": 791,
+        "tag ": "Internet crashed",
+        "message": " The Internet shut down due to copyright restrictions"
+    },
+    {
+        "http_code": 792,
+        "tag ": "Internet crashed",
+        "message": " Climate change driven catastrophic weather event"
+    },
+    {
         "http_code": 793,
         "tag ": "Internet crashed",
         "message": " Zombie Apocalypse"
@@ -343,6 +363,16 @@
         "http_code": 796,
         "tag ": "Internet crashed",
         "message": " Some DNS fuckery idno"
+    },
+    {
+        "http_code": 797,
+        "tag ": "Internet crashed",
+        "message": " This is the last page of the Internet. Go back"
+    },
+    {
+        "http_code": 798,
+        "tag ": "Internet crashed",
+        "message": " I checked the db backups cupboard and the cupboard was bare"
     },
     {
         "http_code": 799,
