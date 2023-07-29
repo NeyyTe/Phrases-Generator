@@ -14,14 +14,14 @@ npm ( généralement installé avec Node.js )
 
 * #### `Clonez le dépôt GitHub sur votre machine avec GitBash` :  
  ```git clone git@github.com:NeyyTe/Phrases-Generator.git```  
- positionnez-vous dessus avec `cd Phrases-Generator` et ouvrez le avec vsCode avec la commande `code.`
+ positionnez-vous dessus avec `cd Phrases-Generator` et ouvrez le avec vsCode via la commande `code .`
 
 * #### `Accédez au répertoire du projet` :
 
 Ouvrir 2 terminaux GitBash dans vsCode :
 
-```cd Phrases-Generator``` sur lequel vous serez deja positionné (pour le front);  
-```cd Phrases-Generator/backend``` (pour le back)
+```cd Phrases-Generator``` sur lequel vous serez deja positionné ( pour le front );  
+```cd Phrases-Generator/backend``` ( pour le back )
 
 * #### `Installez les dépendances du projet` :
 
